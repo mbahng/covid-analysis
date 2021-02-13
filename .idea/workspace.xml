@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a42d5ff-b65e-4c20-901d-8e88083d9790" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Coronavirus_Tracker" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1krawy0jrFQMKHBlCgrUtQc9mZb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Correlation_Analyzer">
+    <configuration name="Correlation_Analyzer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coronavirus_Tracker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Correlation_Analyzer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="First_Data_Cleaner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coronavirus_Tracker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/First_Data_Cleaner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Latitude_Longtitude" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coronavirus_Tracker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Latitude_Longtitude.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Second_Data_Cleaner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coronavirus_Tracker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Second_Data_Cleaner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Third_Data_Cleaner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coronavirus_Tracker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Third_Data_Cleaner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Correlation_Analyzer" />
+        <item itemvalue="Python.Third_Data_Cleaner" />
+        <item itemvalue="Python.Latitude_Longtitude" />
+        <item itemvalue="Python.Second_Data_Cleaner" />
+        <item itemvalue="Python.First_Data_Cleaner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a42d5ff-b65e-4c20-901d-8e88083d9790" name="Default Changelist" comment="" />
+      <created>1606461406986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606461406986</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="61" key="#Correlation_Analyzer" timestamp="1610870270144">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="450" y="61" key="#Correlation_Analyzer/0.0.1440.900@0.0.1440.900" timestamp="1610870270144" />
+    <state x="369" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610181591881">
+      <screen x="0" y="25" width="1440" height="811" />
+    </state>
+    <state x="369" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.811@0.25.1440.811" timestamp="1610181591881" />
+    <state x="458" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609667138233">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1609667138233" />
+    <state x="458" y="186" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.819@0.23.1440.819" timestamp="1609570251672" />
+    <state width="1419" height="276" key="GridCell.Tab.0.bottom" timestamp="1610874152206">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="353" key="GridCell.Tab.0.bottom/0.0.1440.842@0.0.1440.900" timestamp="1610174195351" />
+    <state width="1419" height="276" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1610874152206" />
+    <state width="1419" height="353" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1610174195330" />
+    <state width="1419" height="211" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1608369047440" />
+    <state width="713" height="299" key="GridCell.Tab.0.bottom/0.25.1440.811@0.25.1440.811" timestamp="1610183384327" />
+    <state width="1419" height="276" key="GridCell.Tab.0.center" timestamp="1610874152205">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="276" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1610874152205" />
+    <state width="1419" height="353" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1610174195333" />
+    <state width="1419" height="211" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1608369047439" />
+    <state width="713" height="299" key="GridCell.Tab.0.center/0.25.1440.811@0.25.1440.811" timestamp="1610183384325" />
+    <state width="1419" height="276" key="GridCell.Tab.0.left" timestamp="1610874152204">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="276" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1610874152204" />
+    <state width="1419" height="353" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1610174195332" />
+    <state width="1419" height="211" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1608369047439" />
+    <state width="713" height="299" key="GridCell.Tab.0.left/0.25.1440.811@0.25.1440.811" timestamp="1610183384324" />
+    <state width="1419" height="276" key="GridCell.Tab.0.right" timestamp="1610874152205">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="276" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1610874152205" />
+    <state width="1419" height="353" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1610174195334" />
+    <state width="1419" height="211" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1608369047440" />
+    <state width="713" height="299" key="GridCell.Tab.0.right/0.25.1440.811@0.25.1440.811" timestamp="1610183384326" />
+    <state x="387" y="90" key="SettingsEditor" timestamp="1610870282134">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="387" y="90" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1610870282134" />
+    <state x="259" y="72" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1608367905659" />
+  </component>
+</project>
